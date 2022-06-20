@@ -1,0 +1,55 @@
+* {
+  font-family: var(--font-secondary);
+}
+
+.text-large,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-primary);
+}
+
+.text-large {
+  font-size: 72px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.text-highlight {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.text-small {
+  font-size: 12px;
+  font-weight: 700;
+}
